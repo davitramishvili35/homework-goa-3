@@ -1,0 +1,31 @@
+#name="lika" 
+#print(namme)
+name='lika'
+print(name)
+#number=5
+#text="apples"
+#result=number+text
+#print(result)
+number='5 '
+text=' APPLES '
+result=number+text
+print(result)
+#name=lika
+#name2=naame+4
+name='lika'
+name2=name+4
+print(name2)
+# first_user = "Lika"
+# 2nduser = "Giorgi"
+# print(first user)# 
+first_name='lika'
+second_name='gio'
+print(first_user)
+# first name = Data
+# last % name = "random"
+first_name='data'
+last_name='random'
+# კომენტარი არის ჩვეულებრივი ტექსტი რომელიც კოდს არ ეხება ის იყენება რო ავხსნათ კოდი და სხვა რამეები მისი გაკეთება შეგვიძლია # (ჰეშთეგი)რომელიც სტრინგს კომენტარად აქცევს
+#case-sensitive არის მნიშვნელობა კოდის ენისთვის რომელიც ყველა პატარა შეცვლას დიდათ იღებს მაგალითად პატარა ასოს მაგილითად რო დიდი ასო დავწეროთ  შეცვლა იქნება ხოლოcase-insensetive არის კოდის ენის ტიპი რომელიც პატარა შეცვლებს აიგნორებს
+# snake_case არის როდესაც კოდშ ქვედა ტირე არის მაგალითად hello_world='greeting'number_1='fifty_five' georgia_capital='tbilisi'
+#bug არის შეცდომა კოდში debugging არის შეცდომის გამოსწორება კოდში
